@@ -1,2 +1,0 @@
-# Cyril-Projects
-My Projects
